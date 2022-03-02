@@ -1,0 +1,5 @@
+{
+    "TOKEN": "Your Bot Token",
+    "PREFIX": "$",
+    "COOLDOWN": 5000
+}
