@@ -10,3 +10,4 @@
     "COOLDOWN": 5000
 }
 ```
+Also you can change the Cooldown whatever you want, ex: 5000 = 5 seconds.
