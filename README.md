@@ -10,4 +10,4 @@
     "COOLDOWN": 5000
 }
 ```
-Also you can change the Cooldown whatever you want, ex: 5000 = 5 seconds.
+Also you can change bot's prefix and Cooldown whatever you want, ex: 5000 = 5 seconds.
