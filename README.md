@@ -2,7 +2,7 @@
 2. npm i discord.js
 3. node .
 
-# Your bot token must be in folder "JSON" > config.json:
+# Your Bot Token must be in folder "JSON" > config.json:
 ```json
 {
     "TOKEN": "Your Bot Token",
