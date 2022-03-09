@@ -1,3 +1,5 @@
+* Discord: https://discord.gg/bTK8MXughb
+
 1. npm init
 2. npm i discord.js
 3. node .
