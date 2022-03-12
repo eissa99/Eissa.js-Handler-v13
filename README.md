@@ -1,8 +1,9 @@
 * Discord: https://discord.gg/bTK8MXughb
 
-1. npm init
-2. npm i discord.js
-3. node .
+1. npm i discord.js
+2. npm i ascii-table
+3. npm i ms
+4. node .
 
 # Your Bot Token must be in folder "JSON" > config.json:
 ```json
